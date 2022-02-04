@@ -6,6 +6,7 @@ import { ChangeEvent , useEffect } from 'react';
 
 
 
+
 export const FormStep1 = () => {
 
     let navigate = useNavigate();
@@ -15,8 +16,8 @@ export const FormStep1 = () => {
         dispatch({
             type:FormActions.setCurrentStep,
             payload: 1
-        })
-    }, [])
+        });
+    }, []);
 
     
 
@@ -38,7 +39,7 @@ export const FormStep1 = () => {
     return (
         <Theme> 
             <C.Container>
-                <p>Passo 1/3 - {state.currentStep} </p>
+                <p>Passo 1/3 -  </p>
                 <h1>Vamos começar com seu nome</h1>
                 <p>Preencha o campo abaixo com seu nome completo.</p>
 
