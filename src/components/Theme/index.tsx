@@ -21,25 +21,33 @@ export const Theme = ({children}: Props) => {
                             <SidebarItem 
                               title="Pessoal"
                               description="Se nível"
-                              icon="book"
-                              path="/step2"
+                              icon="profile"
+                              path="/"
                               active={state.currentStep === 1}
                             />
 
                             <SidebarItem 
-                              title="Contatos"
-                              description="Como te achar"
-                              icon="mail"
-                              path="/step3"
+                              title="Profissional"
+                              description="Seu nível"
+                              icon="book"
+                              path="/step2"
                               active={state.currentStep === 2}
                             />
 
                             <SidebarItem 
-                              title="Pessoal"
-                              description="Se identifique"
-                              icon="profile"
-                              path="/"
+                               title="Contatos"
+                              description="Como te achar"
+                             icon="mail"
+                              path="/step3"
                               active={state.currentStep === 3} 
+                            />
+
+                            <SidebarItem 
+                              title="Informações"
+                              description="Suas informações"
+                              icon="info"
+                              path="/step4"
+                              active={state.currentStep === 4}
                             />
 
                     </C.Sidebar>
