@@ -26,10 +26,10 @@ Is a programmers information form, used context api in project . Project made du
 
 # :camera: Screenshots
 <div align="center">
-      <img src="https://user-images.githubusercontent.com/71731815/154587261-f65edd0b-6cd4-4984-954f-e7a6a7ea0630.png" width="500px" />
-      <img src="https://user-images.githubusercontent.com/71731815/154587072-6bfeedd0-f46c-4b8f-a7dd-e0dce751d5d4.png" width="500px" />
-      <img src="https://user-images.githubusercontent.com/71731815/154586873-b6f5a703-21de-43c7-9e1c-71a6db1d2d0f.png" width="500px" />
-      <img src="https://user-images.githubusercontent.com/71731815/154586539-2f7af2c3-d593-4f00-8882-955f62b37b88.png" width="500px" />
+      <img src="https://user-images.githubusercontent.com/71731815/154587261-f65edd0b-6cd4-4984-954f-e7a6a7ea0630.png" width="400px" />
+      <img src="https://user-images.githubusercontent.com/71731815/154587072-6bfeedd0-f46c-4b8f-a7dd-e0dce751d5d4.png" width="400px" />
+      <img src="https://user-images.githubusercontent.com/71731815/154586873-b6f5a703-21de-43c7-9e1c-71a6db1d2d0f.png" width="400px" />
+      <img src="https://user-images.githubusercontent.com/71731815/154586539-2f7af2c3-d593-4f00-8882-955f62b37b88.png" width="400px" />
 
   
  
