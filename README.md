@@ -1,46 +1,73 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">  Multi Form </h1>
+<p align="center">  
+Is a programmers information form, used context api in project . Project made during the 5 in 5 challenge| <a href="https://www.youtube.com/c/BoniekyLacerdaLeal"> Boniek Lacerda</a> </p>
+<p align="center" ><a  href="https://multi-form-2.herokuapp.com/" > Application running | click here </a>  </p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/daniel-lins-/">
+      <img alt="DanielLins" src="https://img.shields.io/badge/-DanielLins-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/Daniel-lins/multiform?color=%235963C5" />
+  <img alt="repo-size" src="https://img.shields.io/github/repo-size/Daniel-lins/multiform?color=%235761C3" />
+  <a href="Dlins300@gmail.com">
+   <img alt="Email" src="https://img.shields.io/badge/-dlins300%40gmail.com-%23525DCB" />
+  </a>
+</p>
 
-## Available Scripts
+# 📌 Contents
 
-In the project directory, you can run:
+* [Screenshots](#camera-screenshot)
+* [Technologies](#rocket-technologies)
+* [How to Run](#computer-how-to-run)
+* [Issues](#bug-issues)
+* [License](#page_facing_up-license)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# :camera: Screenshots
+<div align="center">
+      <img src="https://user-images.githubusercontent.com/71731815/154587261-f65edd0b-6cd4-4984-954f-e7a6a7ea0630.png" width="500px" />
+      <img src="https://user-images.githubusercontent.com/71731815/154587072-6bfeedd0-f46c-4b8f-a7dd-e0dce751d5d4.png" width="500px" />
+      <img src="https://user-images.githubusercontent.com/71731815/154586873-b6f5a703-21de-43c7-9e1c-71a6db1d2d0f.png" width="500px" />
+      <img src="https://user-images.githubusercontent.com/71731815/154586539-2f7af2c3-d593-4f00-8882-955f62b37b88.png" width="500px" />
 
-### `npm test`
+  
+ 
+  
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# :rocket: Technologies
+This project was made using the follow technologies:
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Styled Components](https://styled-components.com/)
 
-### `npm run build`
+# :computer: How to run
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone Repository
+$ git clone https://github.com/Daniel-lins/multiform
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Install Dependencies
+$ npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Run Aplication
+$ npm start
+```
+Go to http://localhost:3000/ to see the result.
 
-### `npm run eject`
+# :bug: Issues
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Create a <a href="https://github.com//Daniel-lins/multiform/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# :page_facing_up: License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This project is under the [MIT license](./LICENSE).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Thank you! 🌠
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
