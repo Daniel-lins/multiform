@@ -19,7 +19,7 @@ export const Theme = ({ children }: Props) => {
           <C.Sidebar>
             <SidebarItem
               title="Pessoal"
-              description="Se nível"
+              description="Seu nível"
               icon="profile"
               path="/"
               active={state.currentStep === 1}

@@ -15,14 +15,6 @@ export const FormStep4 = () => {
     });
   }, []);
 
-  const handleNextStep = () => {
-    if (state.name !== "") {
-      navigate("/step2");
-    } else {
-      alert("Prencha os dados");
-    }
-  };
-
   const handleNameChange = (e: ChangeEvent<HTMLInputElement>) => {
     dispatch({
       type: FormActions.setName,
@@ -32,7 +24,7 @@ export const FormStep4 = () => {
   return (
     <Theme>
       <C.Container>
-        <p>Passo 4/4 - </p>
+        <p>Passo 4/4 </p>
         <h1>Informações</h1>
         <p>Abaixo você pode ver suas informações</p>
 
